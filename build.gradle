@@ -99,5 +99,3 @@ task packDeb(type: Deb, dependsOn: fatJar) {
   }
 
 }
-
-
